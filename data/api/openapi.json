@@ -3,7 +3,7 @@
   "openapi": "3.0.0",
   "info": {
     "title": "Kompla API v1",
-    "description": "Kompla API documentation TEST20",
+    "description": "Kompla API documentation TEST21",
     "version": "1.0"
   },
   "paths": {
